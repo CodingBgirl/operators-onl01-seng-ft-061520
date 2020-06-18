@@ -1,4 +1,5 @@
 require 'pry'
+speed = 0
 def unsafe?(speed)
 	if "speed" < 40
 		"false"
